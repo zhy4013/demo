@@ -4,13 +4,13 @@
 
     <groupId>groupId</groupId>
     <artifactId>demo</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:git@github.com:zhy4013/demo.git</connection>
         <url>git@github.com:zhy4013/demo.git</url>
         <developerConnection>scm:git:git@github.com:zhy4013/demo.git</developerConnection>
-        <tag>yes</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
